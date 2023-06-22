@@ -3,9 +3,6 @@
 Project was made using .net core webapi.
 The whole project was made by me except the docker part which was made by my friend Cucu Antonia.
 
-Original project repo: 
-  https://github.com/CucuAntonia/MarketPlace-Project
-  
 I made this api to use in a greater application for our college project. 
 What can it do?
 
