@@ -1,0 +1,20 @@
+
+===============================
+
+LoggerService | Occurrence Time: Friday, 19 May 2023 12:24:46
+LoggerService | Exception Type: InvalidOperationException
+LoggerService | Exception Message: Operation is not valid due to the current state of the object.
+
+===============================
+
+
+
+===============================
+
+LoggerService | Occurrence Time: Friday, 19 May 2023 12:25:36
+LoggerService | Exception Type: InvalidOperationException
+LoggerService | Exception Message: Operation is not valid due to the current state of the object.
+
+===============================
+
+
